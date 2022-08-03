@@ -16,5 +16,6 @@ assignees: ''
 <<replace with content>>
 
 ## Provide suggestion to improve above materials (optional)
+### Please don't forget to reach out to mentors, as they're always happy to provide learning support!
 
 <<replace with content>>
