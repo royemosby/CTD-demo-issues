@@ -2,7 +2,7 @@
 name: Course Instruction Clarification
 about: Submit an improvement to existing content
 title: Lesson needs clarification <<lesson number>>
-labels: ''
+labels: clarification needed
 assignees: ''
 
 ---
