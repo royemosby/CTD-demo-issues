@@ -2,7 +2,7 @@
 name: Course Instruction Error
 about: Submit an error in materials
 title: Issue with lesson <<lesson number>>
-labels: material error taco
+labels: material error
 assignees: ''
 
 ---
